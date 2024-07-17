@@ -1,0 +1,80 @@
+Biryani    RS 100
+Karahi     RS 200
+Seekh Kebab  RS 150
+Chicken Tikka   RS 250
+Tandoori Chicken   RS 300
+Nihari   RS 150
+Haleem   RS 100
+Chapli Kebab   RS 250
+Aloo Paratha   RS 50
+Daal Chawal    RS 100
+Roghni Naan    RS 25
+Chicken Handi   RS 300
+Chicken Malai Boti  RS 400
+Beef Kofta    RS 500
+Mutton Pulao   RS 1000
+Chicken Pulao   RS 600
+Chicken Biryani  RS 300
+Lahori Fish     RS 700
+Peshawari Chapli Kebab  RS 300
+Shahi Tukray (dessert)  RS 500
+Gulab Jamun (dessert)   RS 400
+Jalebi (dessert)    RS 200
+Rabri (dessert)    RS 500
+Chicken Shawarma    RS 200
+Chicken Curry     RS 500
+Paneer Tikka     RS 700
+Vegetable Biryani    RS 200
+Chicken Malai Tikka   RS 700
+Reshmi Kebab        RS 500
+Chicken Korma     RS 400
+Chicken Reshmi Handi     RS 700
+Chicken Karahi Tikka     RS 500
+Chicken Tandoori Boti     RS 400
+Mutton Karahi    RS 800
+Beef Nihari      RS 700
+Mutton Korma     RS 800
+Chicken Boti Roll    RS 200
+Beef Biryani        RS 1000
+Mutton Pulao Biryani    RS 700
+Chicken Shami Kebab     RS 200
+Aloo Tikki       RS 30
+Chicken Jalfrezi     RS 100
+Prawn Biryani     RS 700
+Vegetable Pulao   RS 200
+Chana Masala    RS 100
+Saag Paneer     RS 100
+Palak Gosht (Spinach with Meat)  RS 100
+Mutton Paya (Trotters)     RS 500
+Chicken Malai Handi      RS 500
+Keema Paratha      RS 100
+Chicken Bihari Boti   RS 400
+Mutton Seekh Kebab    RS 300
+Chicken Reshmi Kebab    RS 300
+Mutton Karahi Tikka     RS 500
+Mutton Chapli Kebab      RS 500
+Chicken Achari Handi      RS 500
+Chicken Tikka Masala     RS 500
+Mutton Rogan Josh      RS 500
+Mutton Haleem      RS 400
+Chicken Kofta Curry    RS 500
+Chicken Pakora       RS 500
+Mutton Dum Biryani     RS 500
+Chicken Malai Curry     RS 500
+Mutton Kofta Pulao     RS 500
+Chicken Achari Tikka     RS 500
+Vegetable Korma       RS 300
+Daal Makhani        RS 200
+Chicken Tikka Biryani     RS 500
+Mutton Handi Biryani          RS 500
+Chicken Reshmi Pulao     RS 500
+Kheer            RS 300
+Ras Malai       RS 500
+Gulab Jamun      RS 400
+Shahi Tukray     RS 200
+Jalebi       RS 100
+Rabri Falooda     RS 400
+Gajar Halwa (Carrot Halwa)     RS 500
+Firni    RS 300
+Zarda      RS 300
+Suji Halwa   RS 100
